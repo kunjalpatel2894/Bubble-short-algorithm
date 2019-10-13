@@ -4,7 +4,7 @@ using namespace std;
  
 int main()
 {
-	int a[50],n,i,j,temp;
+	int a[50],n,i,j,temp; to find the size of array
 	cout<<"Enter the size of array: ";
 	cin>>n;
 	cout<<"Enter the array elements: "; 
